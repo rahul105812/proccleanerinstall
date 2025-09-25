@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'Ccleaner'
+project = 'Project'
 author = 'Author'
 
 # -- General configuration ---------------------------------------------------
@@ -29,9 +29,11 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
+html_title = "Exact Method to Install CCleaner on Another Computer Using Your Professional Plus License Key"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
 
 # If you want to add other meta tags, do so in your _templates/layout.html
+
 
